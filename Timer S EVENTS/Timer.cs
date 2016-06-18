@@ -42,9 +42,9 @@ namespace Timer
 
         public void Times(object sender, EventArgs e)
         {
-           // Console.Clear();
-            //Console.WriteLine("Hello {0},the time is :",this.Mesage);
-            Console.WriteLine(DateTime.Now);
+           Console.Clear();
+           Console.WriteLine("Hello {0},the time is :",this.Mesage);
+           Console.WriteLine(DateTime.Now);
         }
     }
 }

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domashno po Linq", "domashno po Linq\domashno po Linq.csproj", "{654D2DD4-0E0E-4DB7-8E5B-D12126A78856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1-5", "domashno po Linq\Problem1-5.csproj", "{654D2DD4-0E0E-4DB7-8E5B-D12126A78856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devisible by 7 and 3", "Devisible by 7 and 3\Devisible by 7 and 3.csproj", "{E766E8C9-F4A5-4791-9438-64D8BFB3E326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6", "Devisible by 7 and 3\Problem 6.csproj", "{E766E8C9-F4A5-4791-9438-64D8BFB3E326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{E30C5516-709D-46DF-9242-7240764A519F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7", "Timer\Problem7.csproj", "{E30C5516-709D-46DF-9242-7240764A519F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer S EVENTS", "Timer S EVENTS\Timer S EVENTS.csproj", "{9677CD0D-503F-4564-BAC3-C9691367A9A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8", "Timer S EVENTS\Problem 8.csproj", "{9677CD0D-503F-4564-BAC3-C9691367A9A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

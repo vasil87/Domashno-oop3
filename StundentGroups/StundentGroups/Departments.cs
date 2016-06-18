@@ -8,6 +8,7 @@ namespace StundentGroups
         Biology,
         Physics,
         IT,
-        Music
+        Music,
+        None,
     }
 }
